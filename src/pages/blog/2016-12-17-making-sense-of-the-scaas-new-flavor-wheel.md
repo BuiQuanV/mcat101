@@ -1,33 +1,35 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: What is MCAT101?
+date: 2020-10-04T00:00:00.000Z
+description: by Anjalye S.
+featuredpost: true
+featuredimage: /img/mcat-101.png
 tags:
-  - flavor
-  - tasting
+  - premed
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![MCAT 101](/img/mcat-101.png)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+We are a group of students-just like you! We understand the hardships of the journey to medical school and want to be a part of yours. As you may know, it is hard to discern what prep is right for you or how you will be able to afford prep courses worth thousands of dollars. Our goal is to create a space where you can find tons of free resources and advice to help you achieve *your* goal of becoming a doctor. The process of preparing and applying for medical school can seem daunting, but through accessible tutoring and content, we aim to reduce the obstacles associated with it.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Not only that, but with the support of other students who are on the same path as you are, we aim to create a community where everyone can interact, engage and learn with each other. We understand the long nights and lonely days that go along with the process and want to help reduce that stress of navigating it on your own.
 
-## What the updates mean to you
+We would also like to introduce our very own tutoring program! With so many pricey options and everyone claiming to have the best MCAT tutoring out there, it’s easy to become overwhelmed and left clueless. Offering free tutoring is just one of the many steps we are taking to fulfill our goal of providing accessible and reliable tutoring. All of our tutors have scored within the 95th percentile or higher on the sections that they tutor in.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Be on the lookout for new information and updates as we continue to expand! Connect with us on our social media to stay in the loop! Our Facebook offers even more free services so check those out!
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+You can also follow our [Instagram](https://www.instagram.com/mcat101_official/), [Facebook](https://www.facebook.com/mcat101official), and [Twitter](https://twitter.com/Mcat_101) here!
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Instagram:
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+[@mcat101_official](https://www.instagram.com/mcat101_official/)
+
+Facebook:
+
+[mcat101official](https://www.facebook.com/mcat101official)
+
+Twitter:
+
+[MCAT_101](https://twitter.com/Mcat_101)
