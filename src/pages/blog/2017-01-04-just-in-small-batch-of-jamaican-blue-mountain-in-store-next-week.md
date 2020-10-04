@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Specialty Spotlight: Orthopedics"
 date: 2020-10-04T00:05:00.000Z
 description: by Megan R.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/screen-shot-2020-10-02-at-9.39.31-am.png
 tags:
   - Premed
