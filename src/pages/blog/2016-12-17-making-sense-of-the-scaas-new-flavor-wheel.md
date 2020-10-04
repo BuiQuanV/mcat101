@@ -8,7 +8,7 @@ featuredimage: /img/mcat-101.png
 tags:
   - Premed
 ---
-![MCAT 101](/img/mcat-101.png)
+![](/img/mcat-101.png)
 
 We are a group of students-just like you! We understand the hardships of the journey to medical school and want to be a part of yours. As you may know, it is hard to discern what prep is right for you or how you will be able to afford prep courses worth thousands of dollars. Our goal is to create a space where you can find tons of free resources and advice to help you achieve *your* goal of becoming a doctor. The process of preparing and applying for medical school can seem daunting, but through accessible tutoring and content, we aim to reduce the obstacles associated with it.
 
