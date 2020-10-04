@@ -6,7 +6,7 @@ description: by Anjalye S.
 featuredpost: true
 featuredimage: /img/mcat-101.png
 tags:
-  - premed
+  - Premed
 ---
 ![MCAT 101](/img/mcat-101.png)
 
