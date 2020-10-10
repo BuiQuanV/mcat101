@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Welcome to MCAT 101 Beta Page!
+title: "Welcome to MCAT 101 Beta Page! "
 image: /img/pexels-gustavo-fring-3985166.jpg
 heading: Education does not needs to be a debt sentence!
 subheading: Providing FREE resources for the medical professionals of tomorrow!
