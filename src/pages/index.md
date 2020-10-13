@@ -1,9 +1,11 @@
 ---
 templateKey: index-page
-title: "Welcome to MCAT 101 Beta Page! "
+title: Welcome to MCAT 101!
 image: /img/pexels-gustavo-fring-3985166.jpg
-heading: Education does not needs to be a debt sentence!
-subheading: Providing FREE resources for the medical professionals of tomorrow!
+heading: What is MCAT 101?
+subheading: MCAT 101 will soon be one of the best resources you may use to study
+  for the MCAT. Providing FREE resources for the medical professionals of
+  tomorrow!
 mainpitch:
   title: Why MCAT 101?
   description: "MCAT studying doesn’t always have to be hard and expensive. Here
@@ -24,13 +26,10 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: "MCAT 101 offers free one-on-one or group tutoring on specific
+    subjects on the MCAT. "
 main:
-  heading: Quality study material with no compromises
+  heading: Quality study material with no compromises!
   description: In the modern times of internet education, its easy to get lost in
     large amount of irrelevant materials not exactly related to the exam
     patterns. The choice of making which resources to study is as important as
