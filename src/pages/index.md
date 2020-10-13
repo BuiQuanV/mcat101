@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Welcome to MCAT 101!
-image: /img/pexels-gustavo-fring-3985166.jpg
+image: /img/circle-cropped.png
 heading: What we offer
 subheading: "Quality study material with no compromises! "
 mainpitch:
