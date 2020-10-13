@@ -2,29 +2,30 @@
 templateKey: index-page
 title: Welcome to MCAT 101!
 image: /img/pexels-gustavo-fring-3985166.jpg
-heading: What is MCAT 101?
-subheading: MCAT 101 will soon be one of the best resources you may use to study
-  for the MCAT. Providing FREE resources for the medical professionals of
-  tomorrow!
+heading: What we offer
+subheading: "Quality study material with no compromises! "
 mainpitch:
-  title: Why MCAT 101?
-  description: "MCAT studying doesn’t always have to be hard and expensive. Here
-    at MCAT 101, we’re trying to make learning fun and best of all: FREE! Our
-    free tutoring program will launch soon, sign up for the waitlist on our
+  title: What is MCAT 101?
+  description: "MCAT 101 will soon be one of the best resources you may use to
+    study for the MCAT. Providing FREE resources for the medical professionals
+    of tomorrow! MCAT studying doesn’t always have to be hard and expensive.
+    Here at MCAT 101, we’re trying to make learning fun and best of all: FREE!
+    Our free tutoring program will launch soon, sign up for the waitlist on our
     website today !"
-description: MCAT 101 is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: "MCAT 101 offers free one-on-one or group tutoring on specific
+  subjects on the MCAT. "
 intro:
   blurbs:
-    - image: /img/meeting-space.png
+    - image: /img/circle-cropped.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We believe that studying with MCAT 101 will aid in great studyong skills
+        for such a tedious exam as the MCAT. In the modern times of internet
+        education, its easy to get lost in large amount of irrelevant materials
+        not exactly related to the exam patterns. The choice of making which
+        resources to study is as important as the willingness to study itself.
+        We, at MCAT 101, thrive to make sure that we quality and relevance of
+        study material is always prechecked and processed before recommending it
+        to the students.
   heading: What we offer
   description: "MCAT 101 offers free one-on-one or group tutoring on specific
     subjects on the MCAT. "
