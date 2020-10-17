@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: What is MCAT101?
+title: What is MCAT101
 date: 2020-10-04T00:05:00.000Z
 description: by Anjalye S.
 featuredpost: true
